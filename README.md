@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am aiming to become a web engineer and am learning the knowledge and skills of senior engineers.
 
 <!--
 **YSWEngineer/yswengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=YSWEngineer&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/YSWEngineer/)
+
+<!-- ソースコード統計 -->
+<!-- [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YSWEngineer&layout=compact&theme=tokyonight)](https://github.com/YSWEngineer/) -->
