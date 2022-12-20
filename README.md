@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+My name is Yoshihiro Ishibashi.
+
 I am aiming to become a web engineer and am learning the knowledge and skills of senior engineers.
 
 <!--
