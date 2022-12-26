@@ -11,6 +11,7 @@ I am aiming to become a web engineer and am learning the knowledge and skills of
 - RDB, SQL
 - Git, GitHub
 - Ruby, Ruby on Rails
+- English(Listening, Reading, Writing and Speaking)
 
 ## 💪🏻Things I do for fun <!-- 楽しむために私がしていること -->
 - 📖Learning
