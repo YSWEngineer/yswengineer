@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## 🧮Things, quantified <!-- 数量で表したもの -->
 <!-- リポジトリステータス -->
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=YSWEngineer&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/YSWEngineer/)
+[![my github stats](https://github-readme-stats.vercel.app/api?username=YSWEngineer&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/YSWEngineer/)
 
 <!-- ソースコード統計 -->
 <!-- [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YSWEngineer&layout=compact&theme=tokyonight)](https://github.com/YSWEngineer/) -->
