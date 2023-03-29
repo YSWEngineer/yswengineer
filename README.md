@@ -28,6 +28,8 @@ I am aiming to become a web engineer and am learning the knowledge and skills of
 - 🏋🏻Weight training
 - 🍳Cooking and eating
 
+## Thank you for reading!
+
 
 <!--
 **YSWEngineer/yswengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
