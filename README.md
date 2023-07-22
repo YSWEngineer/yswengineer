@@ -7,7 +7,7 @@
   </a>
 </p>
 
-### Hi there👋🏻
+### Hi there 👋🏻
 I am aiming to become a web engineer and am learning the knowledge and skills of senior engineers.
 
 ## 📚Things I am learning about <!-- 私が学んでいることについて -->
