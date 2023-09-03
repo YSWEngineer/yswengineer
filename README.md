@@ -7,10 +7,10 @@
   </a>
 </p>
 
-### Hi there 👋🏻
+# Hi there 👋🏻
 I am aiming to become a web engineer and am learning the knowledge and skills of senior engineers.
 
-## 📚Things I am learning about <!-- 私が学んでいることについて -->
+# 📚Things I am learning about <!-- 私が学んでいることについて -->
 - CSS, HTML
 - JavaScript
 - Linux
@@ -19,7 +19,7 @@ I am aiming to become a web engineer and am learning the knowledge and skills of
 - Ruby, Ruby on Rails
 - English(Listening, Reading, Writing and Speaking)
 
-## 🌞Things I do for fun <!-- 楽しむために私がしていること -->
+# 🌞Things I do for fun <!-- 楽しむために私がしていること -->
 - 📖Learning
 - 🕺🏼Walking
 - 🏋🏻Weight training
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🧮Things, quantified <!-- 数量で表したもの -->
+# 🧮Things, quantified <!-- 数量で表したもの -->
 <!-- リポジトリステータス -->
 [![my github stats](https://github-readme-stats.vercel.app/api?username=YSWEngineer&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/YSWEngineer/)
 
