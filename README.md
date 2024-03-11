@@ -10,7 +10,7 @@
 # Hi there 👋🏻
 I am aiming to become a web engineer and am learning the knowledge and skills of senior engineers.
 
-# 📚Things I am learning about <!-- 私が学んでいることについて -->
+# 📚 Things I am learning about <!-- 私が学んでいることについて -->
 - CSS, HTML
 - JavaScript
 - Linux
@@ -19,11 +19,11 @@ I am aiming to become a web engineer and am learning the knowledge and skills of
 - Ruby, Ruby on Rails
 - English(Listening, Reading, Writing and Speaking)
 
-# 🌞Things I do for fun <!-- 楽しむために私がしていること -->
-- 📖Learning
-- 🕺🏼Walking
-- 🏋🏻Weight training
-- 🍳Cooking and eating
+# 🌞 Things I do for fun <!-- 楽しむために私がしていること -->
+- 📖 Learning
+- 🕺🏼 Walking
+- 🏋🏻 Weight training
+- 🍳 Cooking and eating
 
 ## Thank you for reading!
 
