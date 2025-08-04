@@ -2,9 +2,6 @@
   <a href="https://github.com/YSWEngineer/">
     <img src="https://komarev.com/ghpvc/?username=YSWEngineer" alt="YSWEngineer" />
   </a>
-  <//qiita.com/YSWEngineer">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/YSWEngineer/contributions.svg" />
-  </a>
 </p>
 
 # Hi there 👋🏻
